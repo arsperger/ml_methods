@@ -8,6 +8,7 @@ solutions for the **Machine Learning** course.
 |------|-------|
 | `hw1_solution.ipynb` | Classification (Adult Census Income) |
 | `hw2_solution.ipynb` | Regression, Losses & Metrics (Auto MPG) |
+| `hw4_solution.ipynb` | Clustering on neural network embeddings |
 | `hw1_doc.md` | Documentation for HW1 |
 | `hw2_doc.md` | Documentation for HW2 |
 | `hw_projects.md` | ML project ideas |
